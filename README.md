@@ -79,15 +79,15 @@ dan categorical variables.
 
 ## Status Pengerjaan
 
-| Chapter | Materi | Status |
+| Chapter | Materi 
 |---|---|---|
-| 1 | Exploratory Data Analysis | 🚧 Sedang dikerjakan |
-| 2 | Data and Sampling Distributions | ⏳ Belum dikerjakan |
-| 3 | Statistical Experiments and Significance Testing | ⏳ Belum dikerjakan |
-| 4 | Regression and Prediction | ⏳ Belum dikerjakan |
-| 5 | Classification | ⏳ Belum dikerjakan |
-| 6 | Statistical Machine Learning | ⏳ Belum dikerjakan |
-| 7 | Unsupervised Learning | ⏳ Belum dikerjakan |
+| 1 | Exploratory Data Analysis 
+| 2 | Data and Sampling Distributions 
+| 3 | Statistical Experiments and Significance Testing 
+| 4 | Regression and Prediction 
+| 5 | Classification 
+| 6 | Statistical Machine Learning 
+| 7 | Unsupervised Learning 
 
 ## Teknologi yang Digunakan
 
