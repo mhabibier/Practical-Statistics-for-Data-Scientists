@@ -77,7 +77,7 @@ Membahas Principal Component Analysis, K-Means Clustering,
 hierarchical clustering, model-based clustering, scaling,
 dan categorical variables.
 
-## Pengerjaan
+## Pengerjaan  Chapter 1 - 4
 
 1. Exploratory Data Analysis
 2.  Data and Sampling Distributions 
