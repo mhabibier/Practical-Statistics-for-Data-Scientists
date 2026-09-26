@@ -8,10 +8,11 @@ Scientists: 50+ Essential Concepts Using R and Python, Second Edition*.
 
 ## Identitas
 
-- Nama: Muhammad Habibie Rabbani
-- NIM: [Isi NIM]
-- Program Studi: Teknik Komputer
-- Universitas: Telkom University
+- Nama           : Muhammad Habibie Rabbani
+- NIM            : 101032300005
+- Program Studi  : Teknik Komputer
+- Universitas    : Telkom University
+- Kelas          :
 
 ## Tujuan Repository
 
