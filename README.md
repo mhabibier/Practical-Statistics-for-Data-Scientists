@@ -36,42 +36,42 @@ https://github.com/gedeck/practical-statistics-for-data-scientists
 
 ## Ringkasan Chapter
 
-### Chapter 1 — Exploratory Data Analysis
+### Chapter 1  Exploratory Data Analysis
 
 Membahas tipe data, ukuran pemusatan, ukuran penyebaran, distribusi data,
 data kategorikal, korelasi, dan teknik visualisasi untuk mengeksplorasi
 hubungan antara dua atau lebih variabel.
 
-### Chapter 2 — Data and Sampling Distributions
+### Chapter 2 Data and Sampling Distributions
 
 Membahas random sampling, sampling bias, sampling distribution,
 standard error, bootstrap, confidence interval, distribusi normal,
 long-tailed distribution, binomial, dan Poisson.
 
-### Chapter 3 — Statistical Experiments and Significance Testing
+### Chapter 3 Statistical Experiments and Significance Testing
 
 Membahas eksperimen statistik, A/B testing, hypothesis testing,
 resampling, p-value, t-test, ANOVA, chi-square test, power,
 dan sample size.
 
-### Chapter 4 — Regression and Prediction
+### Chapter 4 Regression and Prediction
 
 Membahas regresi linear sederhana dan berganda, fitted value,
 residual, evaluasi model, pemilihan variabel, factor variables,
 regression diagnostics, polynomial regression, dan spline.
 
-### Chapter 5 — Classification
+### Chapter 5 Classification
 
 Membahas Naive Bayes, discriminant analysis, logistic regression,
 evaluasi model klasifikasi, ROC curve, AUC, dan penanganan
 imbalanced data.
 
-### Chapter 6 — Statistical Machine Learning
+### Chapter 6 Statistical Machine Learning
 
 Membahas K-Nearest Neighbors, decision tree, bagging,
 random forest, dan boosting.
 
-### Chapter 7 — Unsupervised Learning
+### Chapter 7 Unsupervised Learning
 
 Membahas Principal Component Analysis, K-Means Clustering,
 hierarchical clustering, model-based clustering, scaling,
