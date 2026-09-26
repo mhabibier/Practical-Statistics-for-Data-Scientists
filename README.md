@@ -12,7 +12,7 @@ Scientists: 50+ Essential Concepts Using R and Python, Second Edition*.
 - NIM            : 101032300005
 - Program Studi  : Teknik Komputer
 - Universitas    : Telkom University
-- Kelas          :
+- Kelas          : TK-47-04
 
 ## Tujuan Repository
 
