@@ -77,16 +77,6 @@ Membahas Principal Component Analysis, K-Means Clustering,
 hierarchical clustering, model-based clustering, scaling,
 dan categorical variables.
 
-## Pengerjaan  Chapter 1 - 4
-
-1. Exploratory Data Analysis
-2.  Data and Sampling Distributions 
-3.  Statistical Experiments and Significance Testing 
-4.  Regression and Prediction 
-5.  Classification 
-6.  Statistical Machine Learning 
-7.  Unsupervised Learning 
-
 ## Teknologi yang Digunakan
 
 - Python
