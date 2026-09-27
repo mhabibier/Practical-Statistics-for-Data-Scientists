@@ -59,22 +59,6 @@ Membahas regresi linear sederhana dan berganda, fitted value,
 residual, evaluasi model, pemilihan variabel, factor variables,
 regression diagnostics, polynomial regression, dan spline.
 
-### Chapter 5 Classification
-
-Membahas Naive Bayes, discriminant analysis, logistic regression,
-evaluasi model klasifikasi, ROC curve, AUC, dan penanganan
-imbalanced data.
-
-### Chapter 6 Statistical Machine Learning
-
-Membahas K-Nearest Neighbors, decision tree, bagging,
-random forest, dan boosting.
-
-### Chapter 7 Unsupervised Learning
-
-Membahas Principal Component Analysis, K-Means Clustering,
-hierarchical clustering, model-based clustering, scaling,
-dan categorical variables.
 
 ## Teknologi yang Digunakan
 
