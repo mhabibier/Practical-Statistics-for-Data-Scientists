@@ -1,6 +1,11 @@
 
 # Practical Statistics for Data Scientists
 
+[![Python Version](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5%2B-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Repository ini berisi reproduksi kode, penjelasan teori, analisis hasil,
 dan ringkasan setiap chapter dari buku *Practical Statistics for Data
 Scientists: 50+ Essential Concepts Using R and Python, Second Edition*.
